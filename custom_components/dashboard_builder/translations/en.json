@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Dashboard Builder",
+        "description": "Visual dashboard composer. After adding, open /dashboard_builder_web/ in your browser (see documentation)."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Already configured. Only one instance is needed."
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "domain": "dashboard_builder",
+  "name": "Dashboard Builder",
+  "codeowners": ["@local"],
+  "config_flow": true,
+  "documentation": "https://github.com/your-org/ha-dashboard-builder",
+  "integration_type": "system",
+  "iot_class": "local_push",
+  "issue_tracker": "https://github.com/your-org/ha-dashboard-builder/issues",
+  "requirements": [],
+  "version": "0.1.0"
+}

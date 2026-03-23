@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Dashboard Builder",
+        "description": "Визуальный компоновщик дашборда. После добавления откройте в браузере путь /dashboard_builder_web/ (см. README)."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Уже настроено. Достаточно одного экземпляра."
+    }
+  }
+}

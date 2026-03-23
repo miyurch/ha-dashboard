@@ -1,0 +1,16 @@
+name: Dashboard Builder
+version: "0.1.0"
+slug: dashboard_builder_ui
+description: Визуальный компоновщик дашборда Home Assistant
+url: https://github.com/your-org/ha-dashboard-builder
+arch:
+  - aarch64
+  - amd64
+init: false
+startup: application
+ingress: true
+ingress_port: 80
+panel_icon: mdi:view-dashboard
+build:
+  context: ..
+  dockerfile: addon/Dockerfile
